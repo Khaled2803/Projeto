@@ -1,4 +1,6 @@
 Algoritmo "ORDENAÇÃO DE VALORES AO ARRAY"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Khaled Antunino do Nascimento Brito
 Var
 CONTADORA, CONTADORB: inteiro
 NUM, AUX: inteiro

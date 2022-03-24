@@ -1,4 +1,6 @@
 Algoritmo "Valor_de_Variáveis"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Khaled Antunino do Nascimento Brito
 var
    X, Y, AUX: inteiro
 Inicio
